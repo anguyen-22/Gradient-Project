@@ -1,0 +1,3 @@
+# Gradient-Project
+
+The purpose of the project is to create a model that can find a logistic regression equation that predicts the probability of a value of the Y variable as a function of the X variables. The model takes parameters/weights M (a dimensional vector that represents the slope) and b (a single real value that represents the intercept). The model will then train these parameters using training data in the form of X, a dimensional feature vector, and Y, labels either having a value 0 or 1. Once we train these parameters, the model should be able to apply the trained parameters to a sigmoid function that makes predictions close to our test dataset.
